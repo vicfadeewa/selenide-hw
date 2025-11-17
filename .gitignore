@@ -44,5 +44,4 @@ out/
 !**/src/main/**
 !**/src/test/**
 
-!artifacts/app-replan-delivery/
-!artifacts/app-replan-delivery/app-replan-delivery.jar
+!artifacts/app-card-delivery.jar/
